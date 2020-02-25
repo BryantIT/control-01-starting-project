@@ -1,11 +1,9 @@
-# First app JS course Work on Udemy
+# Control app JS course Work on Udemy
 
-First project for Udemy. Done.
+Control project for Udemy.
 ## Getting Started
 
 Find this course here: https://www.udemy.com/share/1029RkCUUZc1dXR34=/
-
-
 
 
 ## Authors
